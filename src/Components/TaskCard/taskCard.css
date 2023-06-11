@@ -1,0 +1,4 @@
+.taskCard {
+  display: flex;
+  flex-direction: row;
+}

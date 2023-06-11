@@ -1,0 +1,18 @@
+.newTask {
+  display: flex;
+  flex-direction: column;
+  column-gap: 50;
+  width: 40%;
+  height: 100%;
+  padding: 3%;
+  border: 1px solid #000000;
+}
+
+.option {
+  display: flex;
+  justify-content: space-between;
+}
+
+label {
+  margin-top: 1em;
+}
