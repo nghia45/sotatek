@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sotatek/static/css/main.e1d03280.css",
-    "main.js": "/sotatek/static/js/main.535707c6.js",
+    "main.css": "/sotatek/static/css/main.739f4d9e.css",
+    "main.js": "/sotatek/static/js/main.389356d3.js",
     "index.html": "/sotatek/index.html",
-    "main.e1d03280.css.map": "/sotatek/static/css/main.e1d03280.css.map",
-    "main.535707c6.js.map": "/sotatek/static/js/main.535707c6.js.map"
+    "main.739f4d9e.css.map": "/sotatek/static/css/main.739f4d9e.css.map",
+    "main.389356d3.js.map": "/sotatek/static/js/main.389356d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1d03280.css",
-    "static/js/main.535707c6.js"
+    "static/css/main.739f4d9e.css",
+    "static/js/main.389356d3.js"
   ]
 }
