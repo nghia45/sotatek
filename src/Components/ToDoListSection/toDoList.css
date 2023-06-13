@@ -1,0 +1,22 @@
+.toDoList {
+  display: flex;
+  flex-direction: column;
+  column-gap: 50;
+  width: 60%;
+  height: 80vh;
+  padding: 3%;
+  border: 1px solid #000000;
+}
+
+.bulk:last-of-type {
+  margin-top: auto;
+  width: 100%;
+  background-color: #e0e0e0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.taskList {
+  height: 80%;
+  overflow-y: scroll;
+}

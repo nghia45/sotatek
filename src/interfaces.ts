@@ -5,8 +5,4 @@ export interface ITask {
   description: string;
 }
 
-export interface IToDoList {
-  tasks: ITask[];
-}
-
 export type priority = "normal" | "low" | "high";

@@ -14,10 +14,22 @@
 
 h2 {
   margin-bottom: 1em;
+  width: 100%;
+  text-align: center;
 }
 
-button,
-input,
-select {
+textarea {
+  min-height: 20%;
+}
+
+input {
+  min-height: 5%;
+}
+
+button {
+  opacity: 1;
   margin-top: 1em;
+}
+button:hover {
+  opacity: 0.7;
 }

@@ -1,9 +1,0 @@
-.TaskCardList {
-  overflow: scroll;
-}
-
-.taskCard {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}

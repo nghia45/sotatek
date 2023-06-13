@@ -1,0 +1,26 @@
+.primary_button,
+.delete_button,
+.detail_button {
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.primary_button {
+  margin-top: 2em;
+  background-color: #5cb85c;
+  height: 2.5em;
+}
+
+.delete_button {
+  background: #d9534f;
+}
+
+.detail_button {
+  background: #00bcd4;
+}
+
+.button_group > button {
+  width: 5em;
+}
