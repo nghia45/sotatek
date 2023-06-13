@@ -14,7 +14,7 @@ Storing data to LocalStorage
 Task title is a required field.
 Due date has the default value which is today, do not accept days in the past as due date.
 Priority field has three values: low, normal and high. The default value is normal. 
-### The created tasks will be sorted by Due date from the near future to far future
+### The created tasks sorted by Due date from the near future to far future
 ### Bulk action box displayed when tick a task with multi remove 
 ### View detail and edit each task
 ### Search by task title
