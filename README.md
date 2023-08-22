@@ -18,3 +18,6 @@ Priority field has three values: low, normal and high. The default value is norm
 ### Bulk action box displayed when tick a task with multi remove 
 ### View detail and edit each task
 ### Search by task title
+
+# Live at
+https://nghia45.github.io/todo-app/
